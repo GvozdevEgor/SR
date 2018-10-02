@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F1E67A4-6448-46E0-BD58-4B189CFD9448}</ProjectGuid>
+    <ProjectGuid>{BC6AF810-5D67-4610-8975-10D674ECD5B1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>KpaSr</RootNamespace>
     <AssemblyName>KpaSr</AssemblyName>
