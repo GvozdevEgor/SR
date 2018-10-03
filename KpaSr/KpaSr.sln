@@ -5,6 +5,18 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KpaSr", "KpaSr\KpaSr.csproj", "{BC6AF810-5D67-4610-8975-10D674ECD5B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerFrameControlUnit", "PowerFrameControlUnit\PowerFrameControlUnit.csproj", "{54072628-C942-4FCD-9A22-EBABDCBCE4D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TdkLambdaZPlus", "TdkLambdaZPlus\TdkLambdaZPlus.csproj", "{4212CDBB-9700-495A-9F0E-AF6517156CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceRS232", "InterfaceRS232\InterfaceRS232.csproj", "{60CD51FD-B886-40EC-B304-2696DDEC63D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTdkLambdaZPlus", "UnitTestTdkLambdaZPlus\UnitTestTdkLambdaZPlus.csproj", "{55D9D3FD-AD25-442E-8F00-64B9817DA835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPowerFrameControlUnit", "UnitTestPowerFrameControlUnit\UnitTestPowerFrameControlUnit.csproj", "{F95EF9B9-2B5B-4638-8F67-6B3D2170665B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestInterfaceRS232", "UnitTestInterfaceRS232\UnitTestInterfaceRS232.csproj", "{11591AC1-BF16-401C-AD2E-4504723FBD9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +27,30 @@ Global
 		{BC6AF810-5D67-4610-8975-10D674ECD5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC6AF810-5D67-4610-8975-10D674ECD5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC6AF810-5D67-4610-8975-10D674ECD5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54072628-C942-4FCD-9A22-EBABDCBCE4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54072628-C942-4FCD-9A22-EBABDCBCE4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54072628-C942-4FCD-9A22-EBABDCBCE4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54072628-C942-4FCD-9A22-EBABDCBCE4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4212CDBB-9700-495A-9F0E-AF6517156CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4212CDBB-9700-495A-9F0E-AF6517156CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4212CDBB-9700-495A-9F0E-AF6517156CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4212CDBB-9700-495A-9F0E-AF6517156CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CD51FD-B886-40EC-B304-2696DDEC63D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CD51FD-B886-40EC-B304-2696DDEC63D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CD51FD-B886-40EC-B304-2696DDEC63D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CD51FD-B886-40EC-B304-2696DDEC63D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D9D3FD-AD25-442E-8F00-64B9817DA835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D9D3FD-AD25-442E-8F00-64B9817DA835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D9D3FD-AD25-442E-8F00-64B9817DA835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D9D3FD-AD25-442E-8F00-64B9817DA835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95EF9B9-2B5B-4638-8F67-6B3D2170665B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95EF9B9-2B5B-4638-8F67-6B3D2170665B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95EF9B9-2B5B-4638-8F67-6B3D2170665B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95EF9B9-2B5B-4638-8F67-6B3D2170665B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11591AC1-BF16-401C-AD2E-4504723FBD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11591AC1-BF16-401C-AD2E-4504723FBD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11591AC1-BF16-401C-AD2E-4504723FBD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11591AC1-BF16-401C-AD2E-4504723FBD9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
