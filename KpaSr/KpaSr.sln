@@ -9,10 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerFrameControlUnit", "Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TdkLambdaZPlus", "TdkLambdaZPlus\TdkLambdaZPlus.csproj", "{0CD40516-1860-481B-B751-DA8AF5A8E9A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceRS232", "InterfaceRS232\InterfaceRS232.csproj", "{0A20997C-1FB6-42AF-8ADE-0AC113818A2F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestInterfaceRS232", "UnitTestInterfaceRS232\UnitTestInterfaceRS232.csproj", "{29C7432C-96CE-430A-879A-E9DBB7DA5479}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPowerFrameControlUnit", "UnitTestPowerFrameControlUnit\UnitTestPowerFrameControlUnit.csproj", "{CD66522D-B56E-4486-9348-85A8FED862C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTdkLambdaZPlus", "UnitTestTdkLambdaZPlus\UnitTestTdkLambdaZPlus.csproj", "{179A3191-3A09-453D-AED2-644C936A96D7}"
@@ -35,14 +31,6 @@ Global
 		{0CD40516-1860-481B-B751-DA8AF5A8E9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CD40516-1860-481B-B751-DA8AF5A8E9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CD40516-1860-481B-B751-DA8AF5A8E9A5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0A20997C-1FB6-42AF-8ADE-0AC113818A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A20997C-1FB6-42AF-8ADE-0AC113818A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A20997C-1FB6-42AF-8ADE-0AC113818A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0A20997C-1FB6-42AF-8ADE-0AC113818A2F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{29C7432C-96CE-430A-879A-E9DBB7DA5479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{29C7432C-96CE-430A-879A-E9DBB7DA5479}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{29C7432C-96CE-430A-879A-E9DBB7DA5479}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{29C7432C-96CE-430A-879A-E9DBB7DA5479}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CD66522D-B56E-4486-9348-85A8FED862C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CD66522D-B56E-4486-9348-85A8FED862C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD66522D-B56E-4486-9348-85A8FED862C7}.Release|Any CPU.ActiveCfg = Release|Any CPU

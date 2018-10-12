@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PowerSupplySystem.cs" />
     <Compile Include="SCPI.cs" />
     <Compile Include="ZPlus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
